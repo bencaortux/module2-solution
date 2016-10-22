@@ -45,13 +45,23 @@ color: white;
 color: white;
 }
 
-
+.ca{
+ background-color:  #e68a00;
+color: white;
+}
+.cb{
+ background-color: #cc3300;
+color: white;
+}
+.cc{
+ background-color: #00cccc;
+color: white;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
 }
 .container{
-  background-color: gray;
 margin: 5px;
 position: relative;
 border: 1px solid black;
